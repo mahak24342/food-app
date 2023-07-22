@@ -1,0 +1,36 @@
+.container{
+    height: calc(100vh-100px);
+    background-color: grey;
+    display: flex;
+    
+    padding-right:0px ;
+    max-width:100%;
+}
+.item{
+    flex:1;
+    position: relative;
+    display: flex;
+}
+.motto{
+    color: blue;
+    font-size: 34px;
+    font-weight: bolder;
+    justify-content: center;
+    align-items: center;
+    column-gap: 3px;
+    margin-top: 40px;
+}
+.card{
+    flex:1;
+    padding: 0 20px;
+}
+.title{
+    font-size: 28px;
+    font-weight: bolder;
+    color:rgb(37, 12, 125);
+}
+.text{
+    color:white;
+    font-size: 17px;
+    font-weight: bolder;
+}

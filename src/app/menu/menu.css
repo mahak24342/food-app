@@ -1,0 +1,64 @@
+h1{
+    color:red
+}
+#fle{
+  display: flex;
+  padding: 8;
+}
+.op{
+    padding-left: 1px;
+   padding-right: 20px;
+   margin-right: 550px;
+}
+.ig{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+#fle h1{
+    font-size: 35px;
+    align-items: center;
+ justify-content: space-between;
+ font-weight: 900;
+ white-space: pre-wrap;
+
+}
+.uq{
+    max-width: 10%;
+    max-height: 10%;
+    padding-left: 1%;
+    padding-right: 5%;
+}
+#fle button{
+    background-color: black;
+    color:white;
+    padding:5px;
+padding-right: 1%;
+    display: block;
+  margin-top: 180px;
+  margin-bottom: 180px;
+  margin-right: 480px;
+  
+}
+
+#flp{
+    padding-right: 1px;
+    margin-right: 80%;
+    display:flex;
+    white-space: pre;
+    padding-left: 1120px;
+    justify-content: center;
+    align-items: center;
+    padding-top: -1500px;
+    line-height: 50px;
+   
+}
+#fle p{
+ flex-wrap: nowrap;
+ align-items: center;
+ justify-content: space-between;
+ font-size: 30px;
+ white-space: wrap;
+  font-weight: 900;
+ color:blue; 
+}

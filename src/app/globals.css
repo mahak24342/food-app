@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#fuck{
+    padding-bottom: 250px;
+    font-weight: 900;
+    font-size: 18px;
+    font-style: bold;
+    color:red;
+}
+#fuck>h1{
+    padding-top: 550px;
+    font-weight: 900;
+    font-size: 18px;
+    font-style: bold;
+    color:red;
+}
+#tt{
+    padding-top: 1%;
+}
+.urope{
+    justify-content: 2px space-between;
+    display: flex;
+    align-content: space-between;
+    
+}
+.urope h3{
+    padding-right: 10px;
+    font-weight: bolder;
+    font-size: 18px;
+}

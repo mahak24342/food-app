@@ -1,0 +1,24 @@
+.price{
+    margin-left:15px; 
+    font-weight: bolder;
+}
+.lo{
+    background-color: rgb(224, 169, 188);
+}
+.wrapper{
+    background-color: rgb(224, 118, 224);
+    width:50%;
+
+}
+.clg{
+    margin: 20px;
+    justify-content: 10px space-between;
+    padding-right: 150px;
+    background-color: rgb(223, 223, 241);
+}
+.right{
+    flex:2;
+}
+.clg{
+    display: flex;
+}
