@@ -2,6 +2,7 @@ import React from 'react'
 import "./menu.css"
 import { menu } from '@/Data'
 import Link from 'next/link'
+import Image from 'next/image'
 const page = () => {
   return (
     <div>
