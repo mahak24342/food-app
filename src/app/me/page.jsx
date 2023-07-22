@@ -1,10 +1,10 @@
 
-"use client"
-import React,{useState} from 'react'
+
+import React from 'react'
 import {featuredProducts} from "@/Data"
 import "@/app/me/page.css"
 const page = () => {
-  const [quantity, setQuantity] = useState(0);
+ 
   return (
     <div id='left'>
 {featuredProducts.map((gun)=>(
